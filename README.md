@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @JuanGaletto
+- 👀 I'm interested in developing my learning skills in different work environments
+- 🌱 I'm currently learning web development
